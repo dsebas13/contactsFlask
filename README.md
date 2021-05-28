@@ -9,6 +9,7 @@ pip install flask
 pip install flask-mysqldb
 pip install PyPDF2
 pip install fitz
+pip install PyMuPDF
 
 Correr el programa
 run: py app.py
